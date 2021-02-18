@@ -34,11 +34,11 @@
 [github](https://github.com/)
 
 **table**
-|Name|branch|college|   
-|----|----|----|    
-|abc|dse|vrsec|    
-|xyz|it|vrsec|    
-|raj|cse|vrsec|    
+Name|branch|college|   
+----|----|----  
+abc|dse|vrsec   
+xyz|it|vrsec   
+raj|cse|vrsec    
 
 
 **code**    
