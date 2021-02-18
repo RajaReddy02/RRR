@@ -34,7 +34,7 @@
 [github](https://github.com/)
 
 **table**
-Name|branch|college|   
+Name|branch|college  
 ----|----|----  
 abc|dse|vrsec   
 xyz|it|vrsec   
